@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jubril Edun
 
-I am a Cloud Engineer and a DevOps student who is on a learning journey into the world of Cloud Engineering, DevOps, Cybersecurity and beyond.
+I am a Cloud Network Engineer and a DevOps student who is on a learning journey into the world of Cloud Engineering, DevOps, Cybersecurity and beyond.
 
 Skills: Linux, Bash, Python, Docker, Azure, AWS etc
 - 🌱 I’m currently learning CI/CD, IaC, Kubernetes etc. 
