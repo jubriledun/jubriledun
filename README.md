@@ -8,5 +8,4 @@ Skills: Linux, Bash, Python, Docker, Azure, AWS etc
 - 📘 I document my learning here and on my blog: https://jubriledun.hashnode.dev/
 - 👔 Connect with me on LinkedIn: https://www.linkedin.com/in/jubril-edun-860954165/
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jubriledun&show_icons=true)   
 
